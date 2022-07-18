@@ -1,1 +1,1 @@
-Investigate_a_Dataset Project: My Submitted 2st Project for the FWD Udacity Professional Data Analysis Track
+Investigate_a_Dataset Project: My Submitted 2nd Project for the FWD Udacity Professional Data Analysis Track
